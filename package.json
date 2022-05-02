@@ -1,0 +1,16 @@
+{
+  "name": "arena-example-project",
+  "version": "1.0.0",
+  "description": "An example project that uses Arena",
+  "main": "bull.js",
+  "scripts": {
+    "start": "node bull.js"
+  },
+  "author": "Sourov",
+  "license": "MIT",
+  "dependencies": {
+    "bull": "^3.22.6",
+    "bull-arena": "^3.29.3",
+    "express": "^4.17.1"
+  }
+}
