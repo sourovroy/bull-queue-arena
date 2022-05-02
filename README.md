@@ -13,6 +13,6 @@ This is a simple demonstration of how to run [Arena](https://github.com/bee-queu
 
 ## Running
 
-`npm run start:bull`
+`npm run start`
 
 Then open http://localhost:5006 in your browser.
